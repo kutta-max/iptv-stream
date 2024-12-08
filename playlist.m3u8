@@ -172,11 +172,11 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,magic-alldev.m3u8?y
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 tvg-name="Inspiration TV UK Ⓢ" tvg-logo="https://i.imgur.com/iOl02Cs.png" tvg-id="InspirationTV.uk" group-title="UK",Inspiration TV UK Ⓢ
 http://92.114.85.77:8000/play/a0am
-#EXTINF:-1 tvg-name="QVC Beauty" tvg-logo="https://i.imgur.com/ZBHtqk1.png" tvg-id="QVCBeautyUK.uk" group-title="UK",QVC Beauty
+#EXTINF:-1 tvg-name="QVC Beauty" tvg-logo="https://i.imgur.com/ZBHtqk1.png" tvg-id="QVCBeautyUK.uk" group-title="Shop",QVC Beauty
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-name="QVC Extra" tvg-logo="https://i.imgur.com/TIe5T9Z.png" tvg-id="QVCExtraUK.uk" group-title="UK",QVC Extra
+#EXTINF:-1 tvg-name="QVC Extra" tvg-logo="https://i.imgur.com/TIe5T9Z.png" tvg-id="QVCExtraUK.uk" group-title="Shop",QVC Extra
 https://live-qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-name="QVC Style" tvg-logo="https://i.imgur.com/6HZlLL3.png" tvg-id="QVCStyleUK.uk" group-title="UK",QVC Style
+#EXTINF:-1 tvg-name="QVC Style" tvg-logo="https://i.imgur.com/6HZlLL3.png" tvg-id="QVCStyleUK.uk" group-title="Shop",QVC Style
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-name="Trace Vault" tvg-logo="https://i.imgur.com/fiLUxqe.png" tvg-id="TraceVault.uk" group-title="UK",Trace Vault
 http://92.114.85.79:8000/play/a09n
@@ -188,7 +188,7 @@ https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Clubland TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Clubland_TV_Logo_2022.svg/640px-Clubland_TV_Logo_2022.svg.png" tvg-id="ClublandTV.uk" group-title="Music",Clubland TV Ⓢ
 http://92.114.85.79:8000/play/a0cx
-#EXTINF:-1 tvg-name="Craft Extra Ⓢ" tvg-logo="https://i.imgur.com/9nTFPK3.png" tvg-id="CraftExtra.uk" group-title="UK",Craft Extra Ⓢ
+#EXTINF:-1 tvg-name="Craft Extra Ⓢ" tvg-logo="https://i.imgur.com/9nTFPK3.png" tvg-id="CraftExtra.uk" group-title="Shop",Craft Extra Ⓢ
 http://92.114.85.79:8000/play/a0df
 #EXTINF:-1 tvg-name="FilmRise Sci-Fi" tvg-logo="https://i.imgur.com/FcN1OKo.png" tvg-id="FilmRiseSciFi.us" group-title="VOD Movies (EN)",FilmRise Sci-Fi
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
@@ -314,29 +314,5 @@ https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12
 https://ythls.armelin.one/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8
 #EXTINF:-1 tvg-name="SABC News" tvg-logo="https://i.imgur.com/H9q3Q9d.png" tvg-id="SABCNews.gh" group-title="News",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
-#EXTINF:-1 tvg-name="Cheddar News" tvg-logo="https://i.imgur.com/tuP9GW8.png" tvg-id="CheddarNews.us" group-title="Business",Cheddar News
-https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/xGlToly.png" tvg-id="BloombergTVPlus.us" group-title="Business",Bloomberg TV+
-https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png" tvg-id="CNBCEurope.uk" group-title="Business",CNBC
-https://i.mjh.nz/SamsungTVPlus/GBBD3600001NO.m3u8
-#EXTINF:-1 tvg-name="Yahoo! Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" tvg-id="YahooFinance.us" group-title="Business",Yahoo! Finance
-https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="AccuWeather NOW" tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-id="AccuWeatherNOW.us" group-title="Weather",AccuWeather NOW
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-#EXTINF:-1 tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" tvg-id="FoxWeather.us" group-title="Weather",Fox Weather
-https://lnc-fox-weather.tubi.video/index.m3u8
-#EXTINF:-1 tvg-name="KTCA-DT5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Twin_Cities_Public_Television_logo_%28PBS%29.png" tvg-id="KTCADT5.us" group-title="Weather",KTCA-DT5
-https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
-#EXTINF:-1 tvg-name="WeatherNation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/512px-WeatherNation_Logo.svg.png" tvg-id="WeatherNation.us" group-title="Weather",WeatherNation
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
 #EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon UK (1080p)
 https://d20opqftbkv2z0.cloudfront.net/live12/nickelodeon/bitrate1-clear.isml/live.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.uk" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten Action Movies UK (720p)
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.uk" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten Comedy Movies UK (720p)
-https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.uk" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Family;Movies",Rakuten Family UK (720p)
-https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Shows UK (720p)
-https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
